@@ -1,6 +1,6 @@
 # Resnet50 embeddings container
 
-This is a simple container to get the embeddings of an image using a resnet50 model. The model is loaded from an onnx file from this project: https://huggingface.co/jxtc/resnet-50-embeddings
+This is a simple container to get the embeddings of an image using a resnet50 model. The model is loaded from an onnx file from this project: https://huggingface.co/jxtc/resnet-50-embeddings and published on https://hub.docker.com/r/jmservera/resnet50-embeddings
 
 
 ## Local run
